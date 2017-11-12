@@ -1,0 +1,1077 @@
+body{
+    margin-left: 0px;
+    margin-right: 0px;
+    transform-origin: 0% 0% 0px;
+
+}
+
+header {
+    display: inline-block;
+    margin-top: -10px;
+    background-color: #cccccc ;
+    height: 70px;
+    width: 100%;
+
+
+}
+.logososmed img {
+    width: 20px;
+}
+
+#logoweb li {
+    display: inline-block;
+    margin-top: -10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    align-items: center;
+}
+#logososmed{
+    width: 100px;
+
+}
+#logososmed ul {
+    margin-top: -65px;
+    margin-left: 160px;
+    margin-bottom: -10px;
+    width: 400px;
+    margin-right: 0px;
+
+}
+#logososmed li {
+    display: inline-table;
+    margin-left: 7px;
+}
+
+
+
+
+
+
+
+nav {
+    margin-top: 0 px;
+    background-color: #363B3F;
+    height: auto 0px;
+    width: 100%;
+
+}
+
+
+nav li {
+    display: inline-table;
+    color: #cccccc;
+    font-size: 17px;
+    font-family: Calibri;
+    margin-top: 0px;
+    padding: 5px;
+}
+nav ul {
+    margin-left: 12px;
+    display: inline;
+    width: 1200px;
+    list-style: none;
+
+}
+
+nav ul li {
+
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+
+}
+nav ul li:hover {
+    background-color: white;
+    color: #56BAA3;
+}
+nav ul li ul {
+    background-color: white;
+    padding: 0px;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: -20px;
+    padding: 10px;
+    width: 200px;
+    visibility: hidden;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 4px 10px 0 rgba(0, 0, 0, 0.19);
+}
+
+hr.onepixel {
+    border-top: 1px solid white;
+    border-bottom: 1px solid #cccccc;
+    height: 0px;
+    width: 180px;
+}
+
+nav ul li ul li {
+    z-index:9999;
+    background: white;
+    display: block;
+    color:  #363B3F;
+    font-size: 17px;
+    text-shadow: 0 -1px 0 #000;
+}
+nav ul li ul li:hover {
+    color: #56BAA3; }
+nav ul li:hover ul {
+    display: block;
+    visibility: visible;
+}
+nav img {
+    width: 10px;
+}
+
+
+#createtread {
+    display: inline-block;
+    float: right;
+    margin-right: 15px;
+}
+
+
+#createtread button {
+    margin-top: 13px;
+    border-width: 1.5px;
+    border-radius: 13px;
+    height: 35px;
+    width: 130px;
+    border-color: #cccccc;
+    color: #cccccc;
+    background-color: #363B3F;
+}
+#createtread :hover {
+    background-color: #56BAA3;
+    color: white;
+    border-color: #56BAA3;
+}
+
+#createtread h1 {
+    margin-top: 5px;
+    font-size: 15px;
+    font-family: Calibri;
+    font-weight: bold;
+}
+
+
+#search {
+    margin-top: 13px;
+    margin-right: 50px;
+    float: right;
+
+
+}
+#search img {
+
+    padding-top: 4px;
+    float: right;
+    display: inline-block;
+    width: 25px;
+}
+
+
+
+
+
+
+
+#breakingnews {
+
+    border-bottom: solid 1px #cccccc;
+}
+
+
+#createtread{
+    float: right;
+    margin-right: 15px;
+
+}
+
+#breakingnews {
+    font-family: Calibri;
+    font-weight: bold;
+}
+#breakingnews h1{
+    display: inline-block;
+    font-family: "News706 BT";
+    color: #363B3F;
+    font-size: 18px;
+    margin-left: 70px;
+}
+
+#breakingnews h3 {
+    display: inline-block;
+    margin-left: 80px;
+    font-family: Calibri;
+    font-size: 17px;
+}
+
+#breakingnews h4 {
+    display: inline-block;
+    margin-left: 10px;
+    font-family: "Calibri Light";
+    font-size: 16px;
+    color: dimgrey;
+    font-weight: inherit;
+}
+
+
+
+
+
+/* homepage */
+
+
+#beritapopuler1 {
+    margin-left: 70px;
+    margin-top: 20px;
+    display: inline-block;
+    width: 700px;
+
+
+
+}
+
+.ket-gambar {
+    position: absolute;
+    font-family: "Calibri Light";
+    bottom: 80px;
+}
+.jenis-berita {
+    padding: 4px;
+    width: 150px;
+    text-align: center;
+    background-color: #C70038;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.isi-berita {
+    font-family: Calibri;
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    padding-left: 27px;
+    padding-top: 10px;
+}
+
+.respon-berita {
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+
+.respon-berita .iconjam {
+    margin-left: 8px;
+}
+.respon-berita .iconjam img {
+    margin-right:5px ;
+    width: 25px;
+}
+
+.respon-berita b {
+    position: absolute;
+}
+.respon-berita .iconkomentar img {
+    margin-left: 500px;
+    margin-right: 2px;
+    width: 20px;
+}
+
+#beritapopuler2 {
+    margin-top: 20px;
+    position: absolute;
+    margin-left: 30px;
+    display: inline-block;
+    width: 500px;
+}
+
+.ket-gambar1{
+    position: absolute;
+    bottom: 10px;
+    font-family: "Calibri Light";
+}
+.jenis-berita1{
+    padding: 5px;
+    width: 100px;
+    text-align: center;
+    background-color: #C70038;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.isi-berita1 {
+    font-family: Calibri;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    padding-left: 18px;
+    margin-top: 10px;
+
+}
+
+
+.respon-berita1 {
+    padding-top: 10px;
+    font-weight: bold;
+    color: white;
+    margin-left: 8px;
+    font-size: 16px;
+}
+
+.respon-berita1 .iconjam1 {
+    margin-left: 8px;
+}
+.respon-berita1 .iconjam1 img {
+    margin-right:5px ;
+    width: 18px;
+}
+.respon-berita1 b{
+    position: absolute;
+    font-size: 15px;
+}
+
+.respon-berita1 .iconkomentar1 img {
+    margin-left: 180px;
+    margin-right: 2px;
+    width: 18px;
+}
+
+#beritapopuler3 {
+    margin-top: 20px;
+    display: inline-block;
+    width: 500px;
+    position: absolute;
+    margin-left: 392px;
+
+}
+#beritapopuler4 {
+    margin-top: 245px;
+    display: inline-block;
+    width: 500px;
+    position: absolute;
+    margin-left: 392px;
+
+}
+#beritapopuler5 {
+    margin-top: 245px;
+    position: absolute;
+    margin-left: 30px;
+    display: inline-block;
+    width: 500px;
+}
+#beritateratas {
+    margin-bottom: 30px;
+}
+
+#body-homepage {
+    border-top: solid #cccccc 1px;
+    padding-left: 65px;
+
+}
+#body-homepage table,tr,td{
+    border: 1px solid #cccccc;
+    border-top: none;
+    border-left: none;
+    height: auto ;
+}
+#body-homepage table{
+    border-right: none;
+}
+#body-homepage tr{
+    border-right: none;
+}
+
+#body-homepage td{
+
+}
+
+#body-homepage .homepage-kiri {
+    width: 735px ;
+    font-family: Calibri;
+}
+.beritakiri-ketberita .beritakiri-coment img {
+
+}
+.homepage-kiri .beritakiri-jenisberita{
+    margin-top: 25px;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+.homepage-kiri .beritakiri-judulberita {
+    font-size: 40px;
+    margin-top: 25px;
+    color: #363B3F;
+
+}
+.homepage-kiri .beritakiri-gambar{
+    margin-top: 30px;
+}
+
+.homepage-kiri .beritakiri img{
+    width: 650px;
+}
+
+.homepage-kiri .beritakiri-isiberita{
+    margin-top: 25px;
+    font-size: 20px;
+    color: #363B3F;
+}
+.homepage-kiri .beritakiri-button {
+    margin-top: 40px;
+    margin-left: 230px;
+}
+
+.homepage-kiri .beritakiri-button button {
+    width: 150px;
+    height: 40px;
+    font-size: 15px;
+    border: solid #363B3F 2px;
+    background-color: white;
+}
+
+
+
+
+
+
+
+#body-homepage .homepage-tengah {
+    width: 300px;
+    font-family: Calibri;
+    font-size: 28px;
+}
+.homepage-tengah .beritatengah-title {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.homepage-tengah .beritatengah-gambar {
+    display: inline-block;
+    margin-left: 40px;
+    height: 150px;
+
+}
+.homepage-tengah .beritatengah-gambar img {
+    position: absolute;
+    width: 220px;
+}
+.homepage-tengah .beritatengah-jenis {
+    position: absolute;
+    background-color: #C70038;
+    font-size: 14px;
+    width: 100px;
+    height: 18px;
+    color: white;
+    text-align: center;
+    padding : 2px;
+    margin-top: 100px;
+}
+
+
+
+
+#body-homepage .homepage-kanan {
+    width: 360px;
+}
+
+.homepage-tengah .beritatengah-respon {
+    position: inherit;
+    font-family: Calibri;
+    font-size: 14px;
+    color: #cccccc;
+}
+.beritatengah-respon .beritatengah-tanggal {
+    margin-left: 40px;
+    display: inline-block;
+    margin-right: 90px;
+}
+
+.beritatengah-respon .beritatengah-eye {
+    display: inline-block;
+    position: absolute;
+}
+.beritatengah-respon .beritatengah-eye img {
+    width: 20px;
+}
+.beritatengah-respon .beritatengah-jumlah {
+    display: inline-block;
+    margin-left: 27px;
+}
+.beritatengah-isiberita {
+    font-family: Calibri;
+    font-size: 17px;
+    font-weight: bold;
+    color: #363B3F;
+    margin-left: 40px;
+}
+
+
+
+
+
+
+
+
+.homepage-kanan {
+    font-family: Calibri;
+}
+.homepage-kanan .beritakanan-gambar {
+    display: inline-block;
+    margin-left: 55px;
+    height: 205px;
+
+}
+.homepage-kanan .beritakanan-gambar img {
+    position: absolute;
+    width: 300px;
+}
+.homepage-kanan .beritakanan-jenis {
+    position: absolute;
+    background-color: #C70038;
+    font-size: 14px;
+    height: 18px;
+    color: white;
+    text-align: center;
+    padding : 2px 10px 2px 10px;
+    margin-top: 140px;
+}
+
+#body-homepage .homepage-kanan {
+    width: 360px;
+}
+
+.homepage-kanan .beritakanan-respon {
+
+    font-family: Calibri;
+    font-size: 14px;
+    color: #cccccc;
+
+}
+.beritakanan-respon .beritakanan-tanggal {
+    margin-left: 55px;
+    display: inline-block;
+    margin-right: 170px;
+
+}
+
+.beritakanan-respon .beritakanan-eye {
+    display: inline-block;
+    position: absolute;
+}
+.beritakanan-respon .beritakanan-eye img {
+    width: 20px;
+}
+.beritakanan-respon .beritakanan-jumlah {
+    display: inline-block;
+    margin-left: 27px;
+}
+.beritakanan-isiberita {
+    font-family: Calibri;
+    font-size: 17px;
+    font-weight: bold;
+    color: #363B3F;
+    margin-left: 55px;
+}
+
+
+
+
+
+
+.homepage-kanan .beritakanan-gambar1 {
+
+    margin-left: 55px;
+    height: 105px;
+    width: 153px;
+    display: inline-block;
+
+}
+.homepage-kanan .beritakanan-gambar1 img {
+    position: absolute;
+    width: 140px;
+}
+.homepage-kanan .beritakanan-jenis1 {
+    position: absolute;
+    background-color: #C70038;
+    font-size: 14px;
+    height: 18px;
+    color: white;
+    text-align: center;
+    padding : 2px 10px 2px 10px;
+    margin-top: 60px;
+}
+
+#body-homepage .homepage-kanan1 {
+    width: 360px;
+}
+
+.homepage-kanan .beritakanan-respon1 {
+
+    font-family: Calibri;
+    font-size: 14px;
+    color: #cccccc;
+    margin-bottom: 10px;
+
+}
+.beritakanan-respon1 .beritakanan-tanggal1 {
+    margin-left: 55px;
+    display: inline-block;
+    margin-right: 170px;
+
+}
+
+.beritakanan-respon1 .beritakanan-eye1 {
+    display: inline-block;
+    position: absolute;
+}
+.beritakanan-respon1 .beritakanan-eye1 img {
+    width: 20px;
+}
+.beritakanan-respon1 .beritakanan-jumlah1 {
+    display: inline-block;
+    margin-left: 27px;
+}
+.beritakanan-isiberita1 {
+    font-family: Calibri;
+    font-size: 17px;
+    font-weight: bold;
+    color: #363B3F;
+    display: inline-block;
+    position: absolute;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#bodyforum table {
+    margin-left: 60px;
+}
+
+#bodyforum table .hottrend {
+
+    font-family: "Calibri Light";
+    font-size: 20px;
+    color: #363B3F;
+    margin-bottom: 20px;
+}
+
+.ket-gambar-hotrend{
+
+    position: relative;
+    width: 50%;
+    float: left;
+}
+.jenis-berita-hottrend {
+
+    text-align: center;
+    padding: 3px ;
+    color: white;
+    background-color: #C70038;
+    font: 14px calibri;
+    width: 80px;
+    position: absolute;
+    bottom: 10px;
+}
+
+
+#bodyforum tr{
+
+}
+
+
+
+.hottrendbody {
+    display: inline-block;
+}
+
+.isi-berita-hottrend {
+
+    font: 14px Calibri;
+    color: #363B3F;
+    width: 40%;
+    float: left;
+}
+.respon-berita {
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.respon-berita .jam img {
+    width: 14px;
+}
+.respon-berita b {
+    font: 20px Calibri;
+    color: white;
+}
+
+.hottrend-judul {
+    font: 25px "Calibri Light";
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+.hottrend-judul b{
+    display: inline-block;
+    align-items: center;
+}
+.hottrend-judul hr {
+    display: inline-block;
+    margin: 0px;
+}
+
+.hottrend-berita{
+    margin-bottom: 20px;
+    margin-top: 15px;
+
+
+}
+.respon-berita .coment img {
+    padding-right: 5px;
+    margin-left: 480px;
+    width: 20px;
+}
+
+.respon-hottrend {
+    margin-bottom: 10px;
+}
+
+.respon-hottrend .coment {
+    margin-right: 50px;
+}
+
+.respon-hottrend b {
+    display: inline-block;
+    font: 16px Calibri;
+    color: #cccccc;
+}
+.respon-hottrend .coment {
+    float: right;
+    display: inline-block;
+}
+.respon-hottrend .coment img {
+    padding-right: 5px;
+    width: 18px;
+}
+
+
+
+.tema-tread {
+    font-family: "Calibri Light";
+    font-size: 30px;
+}
+.tema-judul-tread {
+    margin-top: 10px;
+    font-family: "Calibri Light";
+    font-size: 20px;
+}
+
+
+.button-bikintread {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.button-bikintread button {
+    border-color: #cccccc;
+    font-family: "Calibri Light";
+    background-color: white;
+    border-width: 1.5px;
+    border-bottom-style: solid;
+    color: #363B3F;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 5px;
+}
+.button-bikintread button:hover {
+    background-color: #56BAA3;
+    color: white;
+    border-color: #56BAA3;
+}
+
+.sorting-treads {
+    margin-top: 10px;
+}
+.sorting-treads button {
+    border-color: #cccccc;
+    font-family: "Calibri Light";
+    background-color: white;
+    border-width: 1.5px;
+    border-bottom-style: solid;
+    color: #363B3F;
+    font-weight: bold;
+    font-size: 15px;
+    width: 120px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 10px;
+}
+.sorting-treads button:hover {
+    background-color: #56BAA3;
+    color: white;
+    border-color: #56BAA3;
+}
+
+
+.judul-tread {
+}
+
+.judul-tread b {
+    font-family: "Calibri Light";
+    font-size: 17px;
+}
+
+
+.respon-tread {
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+
+}
+
+.respon-tread .icon {
+    margin-right: 50px;
+}
+
+.respon-tread b {
+    display: inline-block;
+    font:  Calibri;
+    color: #cccccc;
+    float: left;
+    font-size: 13px;
+}
+.respon-tread .icon {
+
+    margin-left: 70px;
+    margin-right: 0px;
+    float: left;
+    display: inline-block;
+}
+.respon-tread .icon img {;
+    width: 16px;
+}
+.respon-tread .icon b{
+    font-size: 13px;
+}
+
+
+#body-buattread {
+    margin-left: 60px;
+}
+
+.body-tabel-buattread {
+
+
+}
+
+.keteranganform {
+    font-family: Calibri;
+    font-size: 23px;
+    margin-bottom: 10px;
+}
+
+.body-tabel-buattread select {
+    font-family: "Calibri Light";
+    font-size: 16px;
+    color: #363B3F;
+    width: 350px;
+    height: 30px;
+    border-radius: 5px;
+}
+.body-tabel-buattread textarea {
+    font-family: "Calibri Light";
+    font-size: 16px;
+    color: #363B3F;
+    border-radius: 5px;
+    text-align: left;
+}
+.form {
+    margin-bottom: 20px;
+}
+.keterangangambar {
+    width: 70px;
+    border: solid 1px;
+    border-color: #cccccc;
+    padding: 0px 10px 0px 10px;
+}
+.kejelasangambar {
+    margin-top: 10px;
+    font-family: "Calibri Light";
+    font-weight: bold;
+    font-size: 18px;
+    color: #cccccc;
+}
+.button-buattread {
+    margin-top: 100px;
+}
+.button-buattread button{;
+    border-radius: 10px;
+    font: "Calibri Light" ;
+    font-size: 18px;
+    font-weight: 200;
+    width: 225px;
+    height: 50px;
+    color: white;
+    background-color: #363B3F;
+
+}
+.profil {
+    margin-top: -3px;
+    margin-left: -2px;
+    margin-left: -70px;
+    width: 1210px;
+    height: 50px ;
+
+}
+.judul-tread-komentar  {
+    padding-left: 20px;
+    padding-top: 20px;
+    font-family: "Calibri Light";
+    font-size: 25px;
+    padding-bottom: 5px;
+
+}
+.isi-berita-komentar {
+    padding-left: 20px;
+    width: 1000px;
+    font-family: "Calibri Light";
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+
+.balas-komentar{
+    display: inline-block;
+    margin-left: 40px;
+}
+.balas-komentar1{
+    display: inline-block;
+}
+.balas-komentar img {
+
+    width: 23px;
+}
+.balas-komentar b {
+    margin-left: 7px;
+    font-family: "Calibri Light";
+    font-size: 25px;
+}
+
+.tglkomentar {
+    display: inline-block;
+    font-family: "Calibri Light";
+    color: #363B3F;
+    font-size: 18px;
+    margin-left: 800px;
+
+}
+
+
+
+
+
+
+
+
+/* login */
+
+#bodylogin {
+    font-family: Calibri;
+    color: white;
+    margin-left: 56px;
+}
+#bodylogin .selamatDatang {
+    font-size: 60px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+#bodylogin .perkenalan {
+    margin-top: 30px;
+    font-size: 27px;
+}
+#bodylogin .logindengan {
+    margin-top: 50px;
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 13px;
+}
+#bodylogin .iconlogin {
+    display: inline-block;
+    width: 140px;
+    height: 35px;
+    margin-right: 8px;
+
+}
+#bodylogin .iconlogin img{
+    width: 20px;
+    padding-top: 8px;
+    display: inline-block;
+    margin-left: 18px;
+}
+#bodylogin .iconlogin .ket-icon{
+    margin-top: 6px;
+    margin-left: 8px;
+    position: absolute;
+    display: inline-block;
+    font-size: 20px;
+}
+#bodylogin .formpendaftaran{
+    margin-left: 50px;
+    margin-top: 60px;
+    width: 610px;
+    height: 600px;
+    background-color: #363B3F;
+    border-radius: 60px;
+}
+
+.formpendaftaran .opsimasukkk {
+    margin-left: 50px;
+    padding-top: 20px;
+    font-size: 27px;
+}
+.formpendaftaran .form {
+    margin-left: 50px;
+    margin-top: 0px;
+    font-family: "Calibri Light";
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.formpendaftaran .form1 {
+    margin-left: 50px;
+    margin-top: 0px;
+    font-family: "Calibri Light";
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.formpendaftaran .form1 input {
+    margin-top: 7px;
+    width: 350px;
+    height: 25px;
+    border-radius: 5px;
+    border: none;
+}
+.formpendaftaran .form input {
+    margin-top: 7px;
+    width: 350px;
+    height: 25px;
+    border-radius: 5px;
+    border: none;
+}
+
+
